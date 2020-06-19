@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # May 18, 2020
 **Announcement:** New Website!
 
